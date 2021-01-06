@@ -52,7 +52,7 @@ The approach I work on DeepFake.
 - [10 DeepFake Examples](https://www.creativebloq.com/features/deepfake-examples)
 - [An Introduction to DeepFakes](https://www.alanzucconi.com/2018/03/14/introduction-to-deepfakes/)
 - 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
-
+And I find a very interesting [**website**](http://www.seeprettyface.com/index.html) which could generate human face via Deepfake tech and it makes its code open source which could help us learn.
 ## 2. Survey Paper
 - [The Creation and Detection of Deepfakes: A Survey](https://arxiv.org/abs/2004.11138)
 - [Media Forensics and DeepFakes: an overview](https://arxiv.org/abs/2001.06564)
